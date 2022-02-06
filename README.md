@@ -12,6 +12,6 @@ After compiling the project by desabling the shadow-build, just move the SQLite 
 An example dataset is already included in the database, but is provided in .sql format just in case.
 
 ### Authors
-- COUDERT-BOUDET Nicolas [GutHub](https://github.com/nicolasCDT) - [Mail](mailto:nicolas@coudert.pro)
+- COUDERT-BOUDET Nicolas [GitHub](https://github.com/nicolasCDT) - [Mail](mailto:nicolas@coudert.pro)
 - LEESTMANS Richard
 #### Année universitaire 2021 - 2022
