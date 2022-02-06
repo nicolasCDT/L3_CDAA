@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TodoDialog</class>
+ <widget class="QDialog" name="TodoDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>901</width>
+    <height>518</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>901</width>
+    <height>518</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>901</width>
+    <height>518</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>9</y>
+     <width>871</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Outil de selection</string>
+   </property>
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>9</x>
+      <y>29</y>
+      <width>861</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="contactNameLabel">
+       <property name="text">
+        <string>Nom: </string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="contactNameBox">
+       <property name="placeholderText">
+        <string>Dupont jean</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="fromlabel">
+       <property name="text">
+        <string>De</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="fromEditBox">
+       <property name="placeholderText">
+        <string>dd/mm/yyyy</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="toLabel">
+       <property name="text">
+        <string>à</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="toEditBox">
+       <property name="placeholderText">
+        <string>dd/mm/yyyy</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="urgentOnly">
+       <property name="text">
+        <string>Afficher uniquement les rendez-vous urgents</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>80</y>
+     <width>511</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <property name="sortingEnabled">
+    <bool>true</bool>
+   </property>
+   <column>
+    <property name="text">
+     <string>Identifiant</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Type</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Description</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Date</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>530</x>
+     <y>80</y>
+     <width>351</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="aboutContactLabel">
+      <property name="text">
+       <string>Note associée au contact</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPlainTextEdit" name="viewNoteText"/>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
