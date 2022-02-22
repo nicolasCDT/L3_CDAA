@@ -10,7 +10,7 @@
  * @date 15/10/2021
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef CDAA_INTERACTION_H

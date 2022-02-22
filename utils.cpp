@@ -6,7 +6,7 @@
  * @version 1.0
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #include "utils.h"

@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe DBInterface
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef DBINTERFACE_H

@@ -4,7 +4,7 @@
  * @brief Définition des méthodes de la classe DBInterface
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 #include "dbinterface.h"
 

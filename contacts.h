@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe Contacts
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef CDAA_CONTACTS_H

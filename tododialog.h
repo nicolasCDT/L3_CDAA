@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe TodoDialog
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef TODODIALOG_H

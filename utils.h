@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe Utils
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef UTILS_H

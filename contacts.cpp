@@ -4,7 +4,7 @@
  * @brief Définition des méthodes de la classe Contacts
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #include "contacts.h"

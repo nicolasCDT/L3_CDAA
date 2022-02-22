@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe EditContactDialog
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef EDITP_CONTACT_DIALOG_H

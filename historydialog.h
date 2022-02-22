@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe HistoryDialog
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef HISTORYDIALOG_H

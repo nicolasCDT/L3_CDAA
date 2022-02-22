@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe MainWindow
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef MAINWINDOW_H

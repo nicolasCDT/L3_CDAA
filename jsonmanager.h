@@ -4,7 +4,7 @@
  * @brief Déclaration de la classe JsonManager
  *
  * @author LEESTMANS Richard
- * @author COUDERT-BOUDET Nicolas
+ * @author COUDERT Nicolas
  */
 
 #ifndef JSONMANAGER_H
